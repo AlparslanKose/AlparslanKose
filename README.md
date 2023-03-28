@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alparslan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img align="left" alt="Coding" width="400" src="alp-is-heart">
+<img align="left" alt="Coding" width="400" src="alp-is-heart.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alparslankose&label=Profile%20views&color=0e75b6&style=flat" alt="alparslankose" /> </p>
 
